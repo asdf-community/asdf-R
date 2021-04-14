@@ -6,7 +6,7 @@
 
 * Mac
     1. [Homebrew](https://brew.sh): used to install the remainder of the dependencies
-    2. ```brew install gcc xz```
+    2. ```brew install gcc xz libxt cairo```
 * Linux
     * Ubuntu / Debian
         1. ```sudo apt-get install build-essential libcurl3-dev libreadline-dev gfortran ```
